@@ -1,6 +1,4 @@
-# loopback-connector-mongodb
-
-The official MongoDB connector for the LoopBack framework.
+# loopback-connector-minio
 
 ## Installation
 
